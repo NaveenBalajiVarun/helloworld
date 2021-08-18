@@ -3,7 +3,7 @@ public class MyClass {
       int x=10;
       int y=25;
       int z=x+y;
-
+System.out.println("Sum ");
       System.out.println("Sum of x+y = " + z);
     }
 }
